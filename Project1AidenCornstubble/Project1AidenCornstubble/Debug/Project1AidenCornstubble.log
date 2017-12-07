@@ -1,0 +1,9 @@
+﻿  project1_LinkedList.cpp
+  Generating Code...
+c:\users\arc tangent\downloads\project 1 - linked list\project 1 - linked list\project1_linkedlist.cpp(181): warning C4715: 'LinkedList::GetFront': not all control paths return a value
+c:\users\arc tangent\downloads\project 1 - linked list\project 1 - linked list\project1_linkedlist.cpp(189): warning C4715: 'LinkedList::GetBack': not all control paths return a value
+  Skipping... (no relevant changes detected)
+  project1_program.cpp
+  project1_main.cpp
+  Project1AidenCornstubble.vcxproj -> E:\CS 250 Programs\Project1AidenCornstubble\Debug\Project1AidenCornstubble.exe
+  Project1AidenCornstubble.vcxproj -> E:\CS 250 Programs\Project1AidenCornstubble\Debug\Project1AidenCornstubble.pdb (Partial PDB)

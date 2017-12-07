@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> cuTEST Test Results </title>
+        <style type='text/css'>
+            body { font-family: monospace; font-size: 1.5em; }
+            .warning { background: ffed24#; font-size: 20px; text-align: center; }
+            .result-success { background: #24ff24; font-size: 20px; text-align: center; }
+            .result-failure { background: #ff7095; font-size: 20px; text-align: center; }
+            table { width: 100%; border: solid 1px #aaaaaa; }
+            table tr.pass { background: #ccffcc; }
+            table tr.fail { background: #ffcccc; }
+            table tr.summary { background: #000000; color: #ffffff; }
+            table tr.descriptions { font-size: 8pt; text-align: center; }
+            table .col_set      { width: 10%; }
+            table .col_test     { width: 20%; }
+            table .col_prereq   { width: 10%; }
+            table .col_result   { width: 5%; }
+            table .col_expected { width: 10%; }
+            table .col_actual   { width: 10%; }
+            table .col_comments { width: 35%; }
+            table .spacer { height: 100px; }
+        </style>
+    </head>
+    <body>
+    <div class='warning'>Warning: Make sure to check if all tests finish (there will be a message at the end of the file) - <br>
+    It is possible for your program to crash early, but still show that tests have passed because it hasn't gone through everything.</div>
+    <table>
+        <tr>
+            <th class='col_set'> Test set </th>
+            <th class='col_test'> Test </th>
+            <th class='col_prereq'> Prerequisite functions </th>
+            <th class='col_result'> Pass/fail </th>
+            <th class='col_expected'> Expected output </th>
+            <th class='col_actual'> Actual output </th>
+            <th class='col_comments'> Comments </th>
+        </tr>
+        <tr class='descriptions'>
+            <td>  </td>
+            <td>  </td>
+            <td> Functions that need to be implemented for these tests to work right </td>
+            <td>  </td>
+            <td> The output expected from the function's return </td>
+            <td> What was actually returned from the function </td>
+            <td> Additional notes from the test </td>
+        </tr>
+<tr class='pass'>
+<td class='test-set'> Test_NodeConstructor </td>
+<td class='test'> When a new node is created, m_ptrPrev should be nullptr. </td>
+<td class='prereq'>  </td>
+<td class='result'> passed </td>
+<td class='expected'> Node's m_ptrPrev is nullptr<br> </td>
+<td class='actual'> Node's m_ptrPrev is nullptr<br> </td>
+<td class='comments'>  </td>
+</tr>
+<tr class='pass'>
+<td class='test-set'> Test_NodeConstructor </td>
+<td class='test'> When a new node is created, m_ptrNext should be nullptr. </td>
+<td class='prereq'>  </td>
+<td class='result'> passed </td>
+<td class='expected'> Node's m_ptrNext is nullptr<br> </td>
+<td class='actual'> Node's m_ptrNext is nullptr<br> </td>
+<td class='comments'>  </td>
+</tr>
+<tr class='summary'>
+<td colspan='7' class='summary'>
+<strong>SUMMARY FOR Test_NodeConstructor:</strong>
+2 out of 2 tests passed
+</td>
+</tr>
+<tr class='spacer'></tr>
+<tr class='pass'>
+<td class='test-set'> Test_Constructor </td>
+<td class='test'> When a LinkedList is created, m_ptrFirst should be nullptr </td>
+<td class='prereq'>  </td>
+<td class='result'> passed </td>
+<td class='expected'> m_ptrFirst is nullptr<br> </td>
+<td class='actual'> m_ptrFirst is nullptr<br> </td>
+<td class='comments'>  </td>
+</tr>
+<tr class='pass'>
+<td class='test-set'> Test_Constructor </td>
+<td class='test'> When a LinkedList is created, m_ptrLast should be nullptr </td>
+<td class='prereq'>  </td>
+<td class='result'> passed </td>
+<td class='expected'> m_ptrLast is nullptr<br> </td>
+<td class='actual'> m_ptrLast is nullptr<br> </td>
+<td class='comments'>  </td>
+</tr>
+<tr class='pass'>
+<td class='test-set'> Test_Constructor </td>
+<td class='test'> When a LinkedList is created, m_itemCount should be 0 </td>
+<td class='prereq'>  </td>
+<td class='result'> passed </td>
+<td class='expected'> m_itemCount = 0<br> </td>
+<td class='actual'> m_itemCount = 0<br> </td>
+<td class='comments'>  </td>
+</tr>
+<tr class='summary'>
+<td colspan='7' class='summary'>
+<strong>SUMMARY FOR Test_Constructor:</strong>
+3 out of 3 tests passed
+</td>
+</tr>
+<tr class='spacer'></tr>

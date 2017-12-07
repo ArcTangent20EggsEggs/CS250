@@ -1,0 +1,7 @@
+E:\CS 250 Programs\Lab7csharptest\Lab7csharptest\bin\Debug\Lab7csharptest.exe.config
+E:\CS 250 Programs\Lab7csharptest\Lab7csharptest\bin\Debug\Lab7csharptest.exe
+E:\CS 250 Programs\Lab7csharptest\Lab7csharptest\bin\Debug\Lab7csharptest.pdb
+E:\CS 250 Programs\Lab7csharptest\Lab7csharptest\obj\Debug\Lab7csharptest.csprojResolveAssemblyReference.cache
+E:\CS 250 Programs\Lab7csharptest\Lab7csharptest\obj\Debug\Lab7csharptest.csproj.CoreCompileInputs.cache
+E:\CS 250 Programs\Lab7csharptest\Lab7csharptest\obj\Debug\Lab7csharptest.exe
+E:\CS 250 Programs\Lab7csharptest\Lab7csharptest\obj\Debug\Lab7csharptest.pdb

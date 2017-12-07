@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1503800917 source:/home/rayechell/TEACHING/cs250/cs-250-private-files/Labs 2017-08/Lab 03 - Static Array/Lab 3 - Static Array Wrapper/lab3_main.cpp
+	<iostream>
+	"lab3_Tester.hpp"
+
+1486011492 source:/home/rayechell/TEACHING/cs250/cs-250-private-files/Labs 2017-08/Lab 03 - Static Array/Lab 3 - Static Array Wrapper/cuTEST/TesterBase.cpp
+	"TesterBase.hpp"
+	"Menu.hpp"
+
+1486008846 /home/rayechell/TEACHING/cs250/cs-250-private-files/Labs 2017-08/Lab 03 - Static Array/Lab 3 - Static Array Wrapper/cuTEST/TesterBase.hpp
+	<string>
+	<list>
+	<functional>
+
+1486009138 /home/rayechell/TEACHING/cs250/cs-250-private-files/Labs 2017-08/Lab 03 - Static Array/Lab 3 - Static Array Wrapper/cuTEST/Menu.hpp
+	<iostream>
+	<vector>
+	<string>
+	<limits>
+
+1503800949 /home/rayechell/TEACHING/cs250/cs-250-private-files/Labs 2017-08/Lab 03 - Static Array/Lab 3 - Static Array Wrapper/lab3_Tester.hpp
+	"lab3_SmartStaticArray.hpp"
+	"cuTEST/StringUtil.hpp"
+	"cuTEST/TesterBase.hpp"
+	"cuTEST/Menu.hpp"
+	<vector>
+	<iostream>
+	<string>
+
+1503800868 /home/rayechell/TEACHING/cs250/cs-250-private-files/Labs 2017-08/Lab 03 - Static Array/Lab 3 - Static Array Wrapper/lab3_SmartStaticArray.hpp
+	<iostream>
+	<string>
+
+1486009899 /home/rayechell/TEACHING/cs250/cs-250-private-files/Labs 2017-08/Lab 03 - Static Array/Lab 3 - Static Array Wrapper/cuTEST/StringUtil.hpp
+	<string>
+	<sstream>
+
+1503800882 source:/home/rayechell/TEACHING/cs250/cs-250-private-files/Labs 2017-08/Lab 03 - Static Array/Lab 3 - Static Array Wrapper/lab3_SmartStaticArray.cpp
+	"lab3_SmartStaticArray.hpp"
+	"cuTEST/Menu.hpp"
+
+1486011492 source:/home/rayechell/TEACHING/cs250/cs-250-private-files/Labs 2017-08/Lab 03 - Static Array/Lab 3 - Static Array Wrapper SOLUTION/cuTEST/TesterBase.cpp
+	"TesterBase.hpp"
+	"Menu.hpp"
+
+1486008846 /home/rayechell/TEACHING/cs250/cs-250-private-files/Labs 2017-08/Lab 03 - Static Array/Lab 3 - Static Array Wrapper SOLUTION/cuTEST/TesterBase.hpp
+	<string>
+	<list>
+	<functional>
+
+1486009138 /home/rayechell/TEACHING/cs250/cs-250-private-files/Labs 2017-08/Lab 03 - Static Array/Lab 3 - Static Array Wrapper SOLUTION/cuTEST/Menu.hpp
+	<iostream>
+	<vector>
+	<string>
+	<limits>
+
+1503800917 source:/home/rayechell/TEACHING/cs250/cs-250-private-files/Labs 2017-08/Lab 03 - Static Array/Lab 3 - Static Array Wrapper SOLUTION/lab3_main.cpp
+	<iostream>
+	"lab3_Tester.hpp"
+
+1503803363 /home/rayechell/TEACHING/cs250/cs-250-private-files/Labs 2017-08/Lab 03 - Static Array/Lab 3 - Static Array Wrapper SOLUTION/lab3_Tester.hpp
+	"lab3_SmartStaticArray.hpp"
+	"cuTEST/StringUtil.hpp"
+	"cuTEST/TesterBase.hpp"
+	"cuTEST/Menu.hpp"
+	<vector>
+	<iostream>
+	<string>
+
+1503802927 /home/rayechell/TEACHING/cs250/cs-250-private-files/Labs 2017-08/Lab 03 - Static Array/Lab 3 - Static Array Wrapper SOLUTION/lab3_SmartStaticArray.hpp
+	<iostream>
+	<string>
+	<stdexcept>
+
+1486009899 /home/rayechell/TEACHING/cs250/cs-250-private-files/Labs 2017-08/Lab 03 - Static Array/Lab 3 - Static Array Wrapper SOLUTION/cuTEST/StringUtil.hpp
+	<string>
+	<sstream>
+
+1503803595 source:/home/rayechell/TEACHING/cs250/cs-250-private-files/Labs 2017-08/Lab 03 - Static Array/Lab 3 - Static Array Wrapper SOLUTION/lab3_SmartStaticArray.cpp
+	"lab3_SmartStaticArray.hpp"
+	"cuTEST/Menu.hpp"
+

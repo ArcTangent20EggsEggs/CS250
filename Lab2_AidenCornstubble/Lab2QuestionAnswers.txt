@@ -1,0 +1,4 @@
+1)	No-throw guarantee, Strong exception saftey, Basic exception saftey, and No exception saftey
+2)	As many as we want
+3)	invalid_argument, length_error, and out_of_range
+4)	overflow_error, range_error, and underflow_error

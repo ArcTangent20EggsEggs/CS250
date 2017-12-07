@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Lab 5 - Dynamic Array Wrapper" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Lab 5 - Dynamic Array Wrapper" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Lab 5 - Dynamic Array Wrapper" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="../cuTEST/Menu.hpp" />
+		<Unit filename="../cuTEST/StringUtil.hpp" />
+		<Unit filename="../cuTEST/TesterBase.cpp" />
+		<Unit filename="../cuTEST/TesterBase.hpp" />
+		<Unit filename="../lab5_SmartDynamicArray.cpp" />
+		<Unit filename="../lab5_SmartDynamicArray.hpp" />
+		<Unit filename="../lab5_Tester.hpp" />
+		<Unit filename="../lab5_main.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

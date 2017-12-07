@@ -1,0 +1,9 @@
+﻿  test_main.cpp
+  Generating Code...
+  Compiling...
+  program_main.cpp
+  EmployeeManager.cpp
+e:\cs 250 programs\project 3 - binary search trees\employeemanager.cpp(85): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+test_main.obj : error LNK2005: _main already defined in program_main.obj
+E:\CS 250 Programs\Project3runner\Debug\Project3runner.exe : fatal error LNK1169: one or more multiply defined symbols found

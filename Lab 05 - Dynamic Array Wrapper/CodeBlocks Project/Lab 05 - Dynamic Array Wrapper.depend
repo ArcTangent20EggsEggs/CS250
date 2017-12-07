@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1504564484 source:/home/rayechell/TEACHING/cs250/cs-250-private-files/Labs 2017-08/Lab 05 - Dynamic Array/Lab 3 - Dynamic Array Wrapper SOLUTION/cuTEST/TesterBase.cpp
+	"TesterBase.hpp"
+	"Menu.hpp"
+	"StringUtil.hpp"
+
+1504557470 /home/rayechell/TEACHING/cs250/cs-250-private-files/Labs 2017-08/Lab 05 - Dynamic Array/Lab 3 - Dynamic Array Wrapper SOLUTION/cuTEST/TesterBase.hpp
+	<string>
+	<list>
+	<vector>
+	<functional>
+	<fstream>
+
+1504554255 /home/rayechell/TEACHING/cs250/cs-250-private-files/Labs 2017-08/Lab 05 - Dynamic Array/Lab 3 - Dynamic Array Wrapper SOLUTION/cuTEST/Menu.hpp
+	<iostream>
+	<vector>
+	<string>
+	<limits>
+	<cstdlib>
+	<fstream>
+
+1504554255 /home/rayechell/TEACHING/cs250/cs-250-private-files/Labs 2017-08/Lab 05 - Dynamic Array/Lab 3 - Dynamic Array Wrapper SOLUTION/cuTEST/StringUtil.hpp
+	<string>
+	<sstream>
+
+1504554172 source:/home/rayechell/TEACHING/cs250/cs-250-private-files/Labs 2017-08/Lab 05 - Dynamic Array/Lab 3 - Dynamic Array Wrapper SOLUTION/lab5_main.cpp
+	<iostream>
+	"lab5_Tester.hpp"
+
+1504567042 /home/rayechell/TEACHING/cs250/cs-250-private-files/Labs 2017-08/Lab 05 - Dynamic Array/Lab 3 - Dynamic Array Wrapper SOLUTION/lab5_Tester.hpp
+	<iostream>
+	<string>
+	<ostream>
+	"cuTEST/TesterBase.hpp"
+	"cuTEST/Menu.hpp"
+	"cuTEST/StringUtil.hpp"
+	"lab5_SmartDynamicArray.hpp"
+
+1504566451 source:/home/rayechell/TEACHING/cs250/cs-250-private-files/Labs 2017-08/Lab 05 - Dynamic Array/Lab 3 - Dynamic Array Wrapper SOLUTION/lab5_SmartDynamicArray.cpp
+	"lab5_SmartDynamicArray.hpp"
+	"cuTEST/Menu.hpp"
+
+1504566429 /home/rayechell/TEACHING/cs250/cs-250-private-files/Labs 2017-08/Lab 05 - Dynamic Array/Lab 3 - Dynamic Array Wrapper SOLUTION/lab5_SmartDynamicArray.hpp
+	<iostream>
+	<string>
+	<stdexcept>
+
+1504567107 source:/home/rayechell/TEACHING/cs250/cs-250-private-files/Labs 2017-08/Lab 05 - Dynamic Array/Lab 3 - Dynamic Array Wrapper/cuTEST/TesterBase.cpp
+	"TesterBase.hpp"
+	"Menu.hpp"
+	"StringUtil.hpp"
+
+1504557470 /home/rayechell/TEACHING/cs250/cs-250-private-files/Labs 2017-08/Lab 05 - Dynamic Array/Lab 3 - Dynamic Array Wrapper/cuTEST/TesterBase.hpp
+	<string>
+	<list>
+	<vector>
+	<functional>
+	<fstream>
+
+1504554255 /home/rayechell/TEACHING/cs250/cs-250-private-files/Labs 2017-08/Lab 05 - Dynamic Array/Lab 3 - Dynamic Array Wrapper/cuTEST/Menu.hpp
+	<iostream>
+	<vector>
+	<string>
+	<limits>
+	<cstdlib>
+	<fstream>
+
+1504554255 /home/rayechell/TEACHING/cs250/cs-250-private-files/Labs 2017-08/Lab 05 - Dynamic Array/Lab 3 - Dynamic Array Wrapper/cuTEST/StringUtil.hpp
+	<string>
+	<sstream>
+
+1504554172 source:/home/rayechell/TEACHING/cs250/cs-250-private-files/Labs 2017-08/Lab 05 - Dynamic Array/Lab 3 - Dynamic Array Wrapper/lab5_main.cpp
+	<iostream>
+	"lab5_Tester.hpp"
+
+1504567042 /home/rayechell/TEACHING/cs250/cs-250-private-files/Labs 2017-08/Lab 05 - Dynamic Array/Lab 3 - Dynamic Array Wrapper/lab5_Tester.hpp
+	<iostream>
+	<string>
+	<ostream>
+	"cuTEST/TesterBase.hpp"
+	"cuTEST/Menu.hpp"
+	"cuTEST/StringUtil.hpp"
+	"lab5_SmartDynamicArray.hpp"
+
+1504566429 /home/rayechell/TEACHING/cs250/cs-250-private-files/Labs 2017-08/Lab 05 - Dynamic Array/Lab 3 - Dynamic Array Wrapper/lab5_SmartDynamicArray.hpp
+	<iostream>
+	<string>
+	<stdexcept>
+
+1504567209 source:/home/rayechell/TEACHING/cs250/cs-250-private-files/Labs 2017-08/Lab 05 - Dynamic Array/Lab 3 - Dynamic Array Wrapper/lab5_SmartDynamicArray.cpp
+	"lab5_SmartDynamicArray.hpp"
+	"cuTEST/Menu.hpp"
+

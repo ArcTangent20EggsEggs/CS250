@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\cuTEST">
+      <UniqueIdentifier>{2db8764f-31d0-4d3e-8fec-a3865c8b7394}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\cuTEST">
+      <UniqueIdentifier>{ab36e7ee-96b2-4170-a501-93e30197d275}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Project 3 - Binary Search Trees\BinarySearchTree.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Project 3 - Binary Search Trees\Employee.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Project 3 - Binary Search Trees\EmployeeManager.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Project 3 - Binary Search Trees\Tester.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Project 3 - Binary Search Trees\Timer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Project 3 - Binary Search Trees\cuTEST\StringUtil.hpp">
+      <Filter>Header Files\cuTEST</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Project 3 - Binary Search Trees\cuTEST\TesterBase.hpp">
+      <Filter>Header Files\cuTEST</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Project 3 - Binary Search Trees\cuTEST\Menu.hpp">
+      <Filter>Header Files\cuTEST</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Project 3 - Binary Search Trees\program_main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Project 3 - Binary Search Trees\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Project 3 - Binary Search Trees\Timer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Project 3 - Binary Search Trees\EmployeeManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Project 3 - Binary Search Trees\cuTEST\TesterBase.cpp">
+      <Filter>Source Files\cuTEST</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
